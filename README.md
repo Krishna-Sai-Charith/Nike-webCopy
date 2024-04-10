@@ -1,8 +1,13 @@
-# React + Vite
+# Nike Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This project is a clone of the official Nike website, built using React and Tailwind CSS. It aims to replicate the design and functionality of the Nike website, providing users with an immersive browsing experience for Nike products.
 
-Currently, two official plugins are available:
+## What I Have Learned
+In the process of building this Nike website clone, I have gained valuable experience in:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+1. React
+2. Tailwind Css
+
+By working on this project, I've not only strengthened my technical skills but also gained practical experience in building real-world web applications using React and Tailwind CSS, setting a solid foundation for future projects.
